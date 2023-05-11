@@ -1,3 +1,5 @@
+import { c3, y1, d1, c4, p1, c1, o1, c7 } from "@/assets"
+
 export const navItems = [
 	{
 		id: 'home_id',
@@ -86,3 +88,26 @@ export const orderOnlineDummy = {
 		'Lorem ipsum dolor sit amet, consentuetur adipiscing elit. Lorem ipsum dolor sit amet, consentuetur adipiscing elit. Lorem ipsum dolor sit amet, consentuetur adipiscing elit.',
 	buttonText: 'Order Now',
 }
+
+export const galleryImages = [
+	{
+		id:'c1',
+		bgImg: y1.src,
+		frontImg: c3.src,
+	},
+	{
+		id:'c2',
+		bgImg: d1.src,
+		frontImg: c4.src,
+	},
+	{
+		id:'c3',
+		bgImg: p1.src,
+		frontImg: c1.src,
+	},
+	{
+		id:'c4',
+		bgImg: o1.src,
+		frontImg: c7.src,
+	}
+]

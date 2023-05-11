@@ -35,6 +35,21 @@ import e4 from './images/elipse/e4.png'
 
 import b1 from "./images/bg/h1.png"
 import b2 from "./images/bg/h2.png"
+import y1 from "./images/bg/y1.png"
+import y2 from "./images/bg/y2.png"
+import y3 from "./images/bg/y3.png"
+import o1 from "./images/bg/o1.png"
+import o2 from "./images/bg/o2.png"
+import o3 from "./images/bg/o3.png"
+import p1 from "./images/bg/p1.png"
+import p2 from "./images/bg/p2.png"
+import p3 from "./images/bg/p3.png"
+import d1 from "./images/bg/d1.png"
+import d2 from "./images/bg/d2.png"
+import d3 from "./images/bg/d3.png"
+
+
+
 
 
 export {
@@ -66,5 +81,17 @@ export {
   e4,
 
   b1,
-  b2
+  b2,
+  y1,
+  y2,
+  y3,
+  o1,
+  o2,
+  o3,
+  d1,
+  d2,
+  d3,
+  p1,
+  p2,
+  p3
 }
