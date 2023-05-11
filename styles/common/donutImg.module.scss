@@ -1,0 +1,56 @@
+  .mainImg{
+    position: relative !important;
+    object-fit: contain;
+  }
+  .secondImg{
+    position: absolute;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+  }
+
+  .thirdImg{
+    position: absolute;
+    z-index: 10;
+    right: 0;
+    width: 650px;
+  }
+
+  .secondImg1{
+    position: absolute;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    width: 300px !important;
+    top: -20px;
+    left: 100px;
+  }
+
+  .thirdImg1{
+    position: absolute !important;
+    z-index: 10;
+    width: 100%;
+    bottom: -135px;
+    right: -60px;
+  }
+  .image4{
+    position: absolute !important;
+    right: 125px;
+    top: 50px;
+    object-fit: contain;
+  }
+
+  .image5{
+    position: absolute !important;
+    object-fit: contain;
+    left: 180px;
+    top: 0;
+    width: 120px;
+  }
+  .image6{
+    position: absolute !important;
+    object-fit: contain;
+    bottom: 0;
+    width: 100px;
+    right: 180px;
+  }

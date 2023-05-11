@@ -1,0 +1,17 @@
+
+.titleSection {
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+
+  .subTitle{
+    color: var(--primary);
+  }
+  .description{
+    box-sizing: border-box;
+    color: var(--white);
+    margin: 0;
+  }
+ }

@@ -1,0 +1,23 @@
+.orderMain{
+  background-color: var(--white);
+  margin-top: 50px !important;
+}
+.imageSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.locationSection{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.imageGallery{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100%;
+}

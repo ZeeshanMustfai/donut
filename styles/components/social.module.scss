@@ -1,0 +1,14 @@
+.socialMain{
+  background-color: var(--white);
+  overflow: hidden;
+  z-index: 1000;
+
+  .infoSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .socialImage { 
+    object-fit: contain;
+  }
+}

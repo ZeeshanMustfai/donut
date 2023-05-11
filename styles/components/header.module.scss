@@ -1,0 +1,25 @@
+.headerMain{
+  height: calc(100vh - 80px);
+  min-height: calc(100vh - 80px);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+  .headerInfo{
+     display: flex;
+     flex-direction: column; 
+     align-items: flex-start;
+     width: 100%;
+    .subTitle{
+        color: var(--primary);
+        letter-spacing: 5px;
+    } 
+  }
+
+  .imageSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }  
+}
